@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Meditation-App/static/css/main.89d8eb56.css",
+    "main.js": "/React-Meditation-App/static/js/main.9164cebf.js",
+    "static/js/453.e6b7e624.chunk.js": "/React-Meditation-App/static/js/453.e6b7e624.chunk.js",
+    "index.html": "/React-Meditation-App/index.html",
+    "main.89d8eb56.css.map": "/React-Meditation-App/static/css/main.89d8eb56.css.map",
+    "main.9164cebf.js.map": "/React-Meditation-App/static/js/main.9164cebf.js.map",
+    "453.e6b7e624.chunk.js.map": "/React-Meditation-App/static/js/453.e6b7e624.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89d8eb56.css",
+    "static/js/main.9164cebf.js"
+  ]
+}
